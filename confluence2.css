@@ -1,0 +1,24 @@
+body.page-gadget {
+	padding-top: 20px;
+}
+
+body.page-gadget #main {
+	width: auto;
+}
+
+.wiki-content h1 {
+  padding: 0.25em 0.5em;
+	border-bottom: 1px solid #666;
+	background-color: #f2f2f2;
+	color: #333;
+	font-weight: bold;
+}
+
+.wiki-content h2 {
+	padding: 0.25em 0.5em;
+  border-left: 8px solid #666;
+}
+
+.wiki-content h1 +  h2 {
+  margin-top: 16px;
+}
