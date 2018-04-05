@@ -1,3 +1,11 @@
+body.page-gadget {
+	padding-top: 20px;
+}
+
+body.page-gadget #main {
+	width: auto;
+}
+
 .wiki-content h1 {
   padding: 0.25em 0.5em;
 	border-bottom: 1px solid #666;
